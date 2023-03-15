@@ -6,9 +6,10 @@
     100%{background-color: rgb(134, 124, 66);
     transform: rotatex(90deg);}
     
+    
 }
 
-div{
+.logo{
     width: 200px;
     height: 200px;
     background-color: rgb(166, 51, 136);
@@ -18,4 +19,6 @@ div{
     animation-timing-function: ease-in-out;
     animation-direction: alternate-reverse;
     border-radius: 70px;
+    box-shadow: 70px 40px 80px rgb(185, 67, 37);
+    
 }
